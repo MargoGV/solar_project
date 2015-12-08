@@ -80,5 +80,3 @@ class Planet:
 
     image = None
     """Изображение планеты"""
-    
-    
